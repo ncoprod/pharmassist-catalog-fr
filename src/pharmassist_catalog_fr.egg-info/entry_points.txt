@@ -1,0 +1,2 @@
+[console_scripts]
+pharmassist-catalog-fr = pharmassist_catalog_fr.cli:main
