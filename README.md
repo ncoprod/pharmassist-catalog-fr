@@ -37,3 +37,11 @@ If you redistribute `products.demo.json` / `products.full.jsonl` with OBF-derive
 See:
 - `ATTRIBUTION.md`
 - `LICENSES.md`
+
+## Validation
+
+```bash
+make lint
+make test
+make build-demo
+```
